@@ -1,4 +1,4 @@
-# [Include] SQLite Cellphone Include
+# [Include] SQLite Cell Phone Include
 
 <p><em>Credits: <a href="https://github.com/WeponzTV" target="_blank">Weponz</a> & <a href="https://github.com/realdiegopoptart" target="_blank">realdiegopoptart</a></em></p>
 
