@@ -8,6 +8,10 @@
 
 <p>Link: https://youtu.be/VlGSOE9n5To</p>
 
+## Support
+
+<a href="https://discord.gg/fugKZrqBth" target="_blank"><img src="https://img.shields.io/discord/986844024126210078?label=SA-MP%20Community"/></a>
+
 ## How To Install
 
 Download & move 'cellphones.inc' into your includes folder.
@@ -49,4 +53,4 @@ public OnPlayerCommandText(playerid, cmdtext[])
 	}
 	return 0;
 }
-``` 
+```
