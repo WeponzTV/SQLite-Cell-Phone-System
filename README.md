@@ -1,6 +1,6 @@
 # [Include] SQLite Cell Phone System
 
-<p><em>Credits: <a href="https://github.com/WeponzTV" target="_blank">Weponz</a> & <a href="https://github.com/realdiegopoptart" target="_blank">realdiegopoptart</a></em></p>
+SQLite based cell phone system with fully functional contact and messaging systems.
 
 ## Video Preview
 
@@ -54,3 +54,10 @@ public OnPlayerCommandText(playerid, cmdtext[])
 	return 0;
 }
 ```
+
+## Credits
+
+<ul>
+    <li><a href="https://github.com/WeponzTV" target="_blank">Weponz</a></li>
+    <li><a href="https://github.com/realdiegopoptart" target="_blank">realdiegopoptart</a></li>
+</ul>
